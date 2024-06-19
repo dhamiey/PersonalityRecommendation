@@ -1,4 +1,4 @@
-PERSONALITY RECOMMENDATION
+**PERSONALITY RECOMMENDATION**
 
 The provided Python code performs an exploratory data analysis (EDA) and clustering on a dataset of responses to the Big Five personality traits questionnaire. 
 Initially, it prepares the data by loading the dataset, dropping unnecessary columns, and checking the data's shape, column names, types, and missing values before removing any rows with missing values. 
